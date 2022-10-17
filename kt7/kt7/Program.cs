@@ -11,8 +11,8 @@
         Console.WriteLine("Имя" + name +"Фамилия" +surname+ "Возраст" +age+ "Курс обучения" +course+ "Номер зачетной книги" +studentbook+ "Форма обучения" +form);
     }
     public void InputInfo() {
-        name = "Dasha";
-        surname = "Velikanova";
+        name = "Sergey";
+        surname = "Shukanov";
         age = 18;
         course = 2;
         studentbook = 75648576;
